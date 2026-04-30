@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "100102",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: In August 2017, the Texas House of Representatives passed a bill that would force women to purchase \"rape insurance.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "100933",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A bust of Abraham Lincoln was vandalized in Chicago in protest of confederate statues."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "105619",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A social media meme accurately lists U.S. government assets deployed by President Trump to aid Puerto Ricans in the aftermath of Hurricane Maria."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "106062",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: We investigated a number of hoaxes, rumors, and conspiracy theories associated with a mass shooting on the Las Vegas strip on 1 October 2017."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "106824",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Energy drinks caused an expectant father to lose a large portion of his skull."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "107413",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: California Governor Jerry Brown signed a law allowing convicted felons to vote while still in prison."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "117385",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Former Alabama judge Roy Moore authored a chapter in a 2011 textbook arguing that women should not hold political office"
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "119677",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: \"Antifa\" admitted to pouring concrete on train tracks causing an Amtrak train to derail."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "122287",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Donald Trump said \"Politics is boring, but more importantly, there's no money in it\" in a 1990 interview."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "122423",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: In August 2017, when tensions between President Trump and Senate Majority Leader Mitch McConnell were at their highest, the latter blew off an invitation to meet with the president because he had a haircut appointment."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "130594",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Donald Trump intervened to stop a bat-wielding mugger in New York City in 1991."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "133880",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Rep. Mark Amodei reported high-school student Noah Christiansen to his school for cursing during a phone call concerning gun safety legislation."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "139035",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Albert Einstein said \"World War IV would be fought with sticks and stones.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "140194",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Samuel Beckett used to drive a teenaged André the Giant to school when they lived in a small French village."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "142625",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Anthropologist Jane Goodall likened Donald Trump's actions to primates engaging in dominance behavior."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "144591",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: The \"Deodorant Challenge\" is \"sweeping\" schools and playgrounds as of May 2018."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "145857",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A video shows a group of ducks patiently waiting at a traffic light."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "150157",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Under Armour garments are more flammable than other garments of their type."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "150474",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: News media outlets misrepresented a photograph of a two-year-old migrant girl whose mother was arrested at the U.S-Mexico border as depicting an instance of family separation."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "151398",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Justice Anthony Kennedy suddenly resigned from the Supreme Court as part of a deal to shield his son from ongoing Russian investigations."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "152015",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: In a 2018 rally, President Trump compared his mouth to Elton John’s organ, adding that the brain is “hopefully attached to the mouth.”"
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "153281",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A 17-year-old girl named Alyssa Carson is being trained by NASA to become an astronaut."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "153604",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: San Francisco is registering \"illegal aliens\" to vote."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "154179",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Missouri Republicans passed a bill to lower the minimum wage in St. Louis from $10 an hour to $7.70."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "154883",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: The Trump re-election campaign is responsible for a surge in orders of \"Trump 2020\" flags and banners produced in Chinese factories, just before the imposition of U.S. tariffs."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "154964",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: One oyster can filter more than 50 gallons of water in 24 hours."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "155705",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A video shows dozens of spiderlings dispersed from their mother after she was squashed with a broom."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "156797",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A photograph shows a newborn child who weighed 8.6 kg (18.96 lbs.) at birth."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "157431",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A video shows an abnormally large leatherback turtle on a beach."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "157554",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Americans Jay Austin and Lauren Geoghegan were killed in Tajikistan while cycling through \"Isis territory\" in order to vindicate their belief in human kindness."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "157606",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: William Harvey Carney was the first African-American serviceman to be awarded the Medal of Honor."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "158176",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A man named Robert Smalls escaped slavery, along with his family and other slaves, by stealing a Confederate ship and was later elected to the U.S. House of Representatives."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "158697",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Verizon Wireless limited the Santa Clara County Fire Department's data access by \"throttling\" their service in the midst of a wildfire."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "164131",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Maya Angelou was raped when she was a child, and after the man responsible was found dead, she refused to speak for nearly 5 years."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "164259",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: After an off-duty police officer shot Brian Hundley, a jury found the officer had acted negligently and lied about the event, but Judge Brett Kavanaugh overturned the finding."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "164582",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: The student union at the University of Manchester instituted a ban on audible clapping during their events."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "165262",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Former President Jimmy Carter said \"America has no functioning democracy at this moment.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "166337",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: The school shooting rate in non-Christian Japan is vastly lower than that of mostly Christian Texas."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "166550",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Cardinal George Pell, who has been charged with sexual abuse, once said that abortion was \"a worse moral scandal than priests sexually abusing young people.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "167091",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: President Donald Trump and Jared Kushner have used their public offices to manipulate Gulf countries for personal gain."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "167971",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Uber and Lyft offer voters free rides to the polls on Election Day."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "168283",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A 9-year-old girl was paralyzed as a result of receiving a flu shot."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "168333",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: News media claims of bombs sent by mail to the Clintons and Obamas were false because USPS doesn't deliver mail to persons under Secret Service protection."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "169282",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Undercover video footage shows that Beto O'Rourke campaign staff illegally used campaign resources to provide food, supplies and transportation to Central American migrants."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "169406",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: The entire Central American migrant caravan rejected Mexico's offer of jobs, medical care and education."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "169579",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Armed Black Panthers lobbied for Georgia gubernatorial candidate Stacey Abrams and attempted to intimidate residents into voting for her."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "170611",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Clint Eastwood said \"one day we will realize that the Barack Obama presidency was the biggest fraud ever perpetrated on the American people.”"
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "171145",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A Broward County employee witnessed elections staff filling out blank absentee ballots."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "171305",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Parkland Shooter Nikolas Cruz registered to vote as a Republican from jail."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "171734",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Boiling menstrual pads and drinking the water to get “high” or “drunk” is an alarming new trend amongst Indonesian teens. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "174717",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: President Donald Trump, in applying for permission to build a wall at his golf course in Ireland, warned against the threat of coastal erosion caused by global warming."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "176157",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: President Donald Trump's administration auctioned 150,000 acres of public land off in December 2018, making that land open to fracking activities."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "176854",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A list of chemicals, written as if they were ingredients on a food label, accurately depicts the chemical composition of a banana. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "179133",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: DC Comics is publishing a series depicting Jesus Christ living with a superhero."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "179922",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Arkansas landlord Annette Cowen informed tenants at her rental properties they could face eviction if they failed to pay rent as a result of lacking the income provided by government housing subsidy programs."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "180127",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Three cats in Wyoming were diagnosed with the bubonic plague."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "180598",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A photograph shows Martin Luther King Jr. in the back seat of a police car, along with a dog that was put there by officers an attempt to intimidate him."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "180795",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Nathan Phillips falsely claimed to be a U.S. military veteran who served in the Vietnam War."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "181491",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Roger Stone once marketed 'Hillary for Prison' merchandise. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "184631",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Donald Trump, Jr. referred to teachers as \"losers\" at a campaign event."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "189428",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A map demonstrates the population disparity between densely populated Los Angeles County and much of the U.S."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "189561",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A photograph showing U.S. President Donald Trump awarding a purple heart to a wounded veteran went unreported by the mainstream news media. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "189613",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Nancy Pelosi announced a \"scheme\" to \"take down Donald Trump in 2020\" by lowering the voting age."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "192317",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: FDNY Firefighter Michael O'Connell asked the internet for help in locating the helmet he wore on 9/11, which had been stolen from his home.  "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "193101",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Razor blades were found in gas-pump handles in Michigan."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "193910",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: The Australian government's Threatened Species Strategy has as one of its aims the culling of 2 million feral cats by 2020, largely using a sausage bait carrying a lethal toxin. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "194105",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Immigrants who illegally crossed into the U.S. at the Mexico border are the cause of measles outbreaks in 2019 in the U.S."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "194670",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A document discovered in May 2019 reveals that Donald Trump's IQ was measured at 73 during his high school years. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "195981",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: More than 50% of respondents to a survey from Civic Science said that Arabic numerals should not be taught in school."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "196362",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: WWE wrestler Ric Flair was declared brain dead on 16 May 2019. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "196641",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Taco Bell's cinnamon twists are made from deep-fried rotini pasta. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "197103",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: President Trump declared on 'Fox & Friends' that 'I am in charge, this is my country, and I will do as I please.'"
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "197115",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A group of Somali teenagers used hammers to physically attack and injure several passersby at a train station in Minneapolis in May 2019. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "197230",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. President Obama accepted $21.6 million in illegal foreign donations to his 2012 re-election campaign."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "197932",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. President Donald Trump said he liked \"the sun better than the artificial non-sun\" during a rally."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "198219",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A video captures an experiment in which immersing an egg in soda for 24 hours dissolved its shell and turned the egg into a rubbery, squeezable substance. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "200507",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A photograph shows a huntsman spider eating a pygmy possum. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "200550",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: In June 2019, Ecuador's government announced a plan for U.S. military aircraft to use the Galápagos Island of San Cristóbal for refueling. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "200696",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Stormy Daniels wrote a \"suicide note\" admitting she lied about having an affair with Donald Trump before she committed suicide."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "201265",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Young people are growing \"horns\" in the base of their skulls from looking down at cellphone screens."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "202982",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. President Donald Trump said American Revolutionary War troops took over airports."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "203665",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A city in U.S. Rep. Ilhan Omar’s congressional district voted to eliminate the pledge of allegiance before city council meetings."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "204620",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. Rep. Ilhan Omar became a naturalized U.S. citizen before First Lady Melania Trump did. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "204964",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. Rep. Alexandria Ocasio-Cortez started \"chain migration\" deportation proceedings against First Lady Melania Trump and her parents."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "205882",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A video shows PBS children's TV host Mr. Rogers addressing the nation after 9/11."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "208068",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: The Dayton, Ohio, mass shooting suspect \"Connor Betts\" is or has assumed the identity of the same Connor Betts who died in Connecticut in 2014. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "208341",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Authorities warned about more attacks on Walmart and Target stores in El Paso after a mass shooting there in August 2019."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "208855",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A photograph of U. S. President Donald Trump and first lady Melania Trump shows them with a baby who was orphaned by the August 2019 El Paso, Texas, mass shooting. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "209842",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. President Donald Trump tweeted that he loves the Chinese people \"just as I love Melania or Ivanka!\""
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "210946",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: On Aug. 21, 2019, U.S. President Donald Trump articulated a belief that he is \"the chosen one,\" the \"King of Israel,\" or the \"second coming of God.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "211377",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: The toy company Hasbro acquired Death Row Records. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "212255",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Lee de Forest, the \"father of radio,\" proclaimed that a man-made moon voyage will never occur."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "212890",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A social media post describes volunteers headed to Florida to help with Hurricane Dorian relief in September 2019."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "214817",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A video shows U.S. Rep. Ilhan Omar dancing on the anniversary of 9/11. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "215251",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: In 1989, a senior U.N. environmental official said, “Entire nations could be wiped off the face of the Earth by rising sea levels if the global warming trend is not reversed by the year 2000.”"
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "215898",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: The show \"The Simpsons\" predicted the common autocorrect feature on phones, tablets and computers. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "216083",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Muslims in Switzerland burned a Swiss flag and demanded the cross be removed from it."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "216241",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: In 2006, an abortion-clinic owner cut the umbilical cord of a baby born alive before \"throwing\" her in a biohazard bag and putting her remains in \"the trash.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "216575",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. Sen. Elizabeth Warren said or argued to the effect that \"taxpayers must fund sex reassignment surgery.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "217738",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: In October 2019, Barnes & Noble sold or marketed a satire of Donald Trump's presidency as a children's book, or placed it in the children's section of stores."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "218044",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A video shows 300 children who were found frozen alive for purposes of organ harvesting. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "218204",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: The snakehead fish can survive on land. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "220781",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Austin public schools will force parents to allow the district to teach children \"how to have anal sex.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "221186",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: The high-dose Fluzone vaccine caused the deaths of 23 senior citizens during a clinical trial."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "221493",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Actress Dawn Wells was the only \"Gilligan's Island\" cast member to receive residual payments for syndicated airings of the show."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "223050",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: User videos taken in November 2019 showed Facebook's mobile application inadvertently opening the phone's camera in the background."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "223772",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. Rep. Adam Schiff is a known pedophile who has settled numerous sex crime cases out of court. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "224664",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: In November 2019, A.C. Moore announced it was going out of business and would be closing its stores. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "224701",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Actor Jimmy Stewart suffered what would in 2019 be diagnosed as PTSD due to his experience as a World War II bomber pilot."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "224845",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: In November 2019, Duane Chapman, known as \"Dog the Bounty Hunter,\" died either by suicide or from a pulmonary embolism."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "224890",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A proposed Virginia law would outlaw martial arts and firearms instruction."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "225433",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: The FBI warned that smart TVs can \"spy\" on their owners."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "225686",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A video clip captures U.S. President Donald Trump's hairpiece being sucked off by the intake of a jet engine."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "225690",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Country music singer Willie Nelson stopped smoking weed."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "226771",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Diane Abbott was photographed wearing mismatched shoes on Dec. 12, 2019. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "227052",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A photograph shows then-first lady Nancy Reagan with Mr. T dressed up as Santa Claus. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "229021",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Four Impossible Whoppers provide “enough estrogen to grow boobs on a male.” "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "230778",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A photograph shows members of the KKK marching with a Trump-Pence presidential campaign sign. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "231098",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. President Teddy Roosevelt once said, \"Patriotism means to stand by the country. It does not mean to stand by the president.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "233504",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Playgirl magazine ran a \"Sleep with Donald Trump\" contest promotion in 1990."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "233744",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Director Ron Howard penned an essay starting \"I am a liberal, but that doesn't mean what a lot of you apparently think it does.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "235844",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: An asteroid is expected to hit earth in mid-February 2020. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "235872",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: In 1856 U.S. House Rep. Preston Brooks brutally attacked Sen. Charles Sumner with a cane in the U.S. Senate chamber."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "236478",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Harvard professor Charles Lieber was arrested for concealing funding from a Chinese lab connected to the origin of the new coronavirus."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "236897",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A Chinese intelligence officer revealed that a new coronavirus was developed in a lab as a bioweapon."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "238431",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Sales of Corona beer dropped sharply in early 2020 because consumers mistakenly associated the brand name with the new coronavirus."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "238978",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Self-described psychic Sylvia Browne \"predicted\" a 2020 outbreak of the new coronavirus."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "239365",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Former U.S. Vice President Joe Biden once said he didn't want his kids to grow up in a \"racial jungle\" in regards to desegregation."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "240564",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Patients should avoid taking ibuprofen to relieve pain and fever associated with COVID-19 infections."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "240790",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: The United States \"refused\" COVID-19 diagnostic tests offered by the World Health Organization."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "240933",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Donald Trump once said: \"You never blame yourself; you have to blame something else. If you do something bad, never, ever blame yourself.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "241284",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Referring to the ongoing COVID-19 pandemic, U.S. President Donald Trump said, \"People are dying today that have never died before.\" "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "243807",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: An 800 phone number can be used for tracking the status of coronavirus economic stimulus payments."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "243827",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. President Trump wrote Sen. Chuck Schumer, D-New York, a letter blaming the state's medical-supply shortage amid an ongoing pandemic on impeachment proceedings against Trump."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "244012",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A drop of 21 million cellphone subscribers in China in early 2020 documents that the death toll from COVID-19 was vastly underreported in that country."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "244792",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Microwaving fabric masks is a good way to sanitize them for reuse."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "246306",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: An Ohio man died from complications related to the COVID-19 coronavirus disease weeks after he downplayed the virus on social media. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "246351",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A photograph shows a flyer posted for an \"End the Lockdown Rally\" in Staten Island."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "246490",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Under U.S. President Donald Trump, federal authorities are confiscating orders of personal protective equipment (PPE) from local governments amid the COVID-19 pandemic."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "246594",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. President Donald Trump suggested during a White House briefing that injecting disinfectants could treat COVID-19. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "246701",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A picture shows a person holding a \"Sacrifice the Weak\" sign at a rally urging the state of Tennessee to re-start its economy amid COVID-19 lockdown orders."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "246849",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Nobel laureate Dr. Tasuku Honjo said that COVID-19 was \"man-made\" at a lab in Wuhan, China."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "246982",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: The U.S. economic downturn due to the COVID-19 coronavirus pandemic in early 2020 was forcing the United States Postal Service to close."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "247219",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Starbucks is opening a coffee bean roasting facility in China."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "247242",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: The White House Gift Shop is selling coronavirus commemorative coins. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "247487",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Bill Gates is quoted in the February 1997 issue of George magazine as saying an \"over-populated planet\" would be \"choked to extinction by a lung-attacking virus.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "247501",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A viral photograph showing a canine coronavirus vaccine demonstrates that there should already exist a human vaccine for COVID-19."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "247794",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Dutch restaurants solved the problem of dining out during the COVID-19 coronavirus disease pandemic by installing personal greenhouse booths. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "248007",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. President Donald Trump called MSNBC host Nicole Wallace a \"dog.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "250084",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A photograph shows a protester against pandemic stay-at-home orders holding a sign declaring that \"muzzles are for dogs and slaves.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "250860",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A photograph shows U.S. President Donald Trump wearing a protective face mask during a visit to a Ford manufacturing plant in spring 2020."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "251380",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: On the same day California announced it would provide some undocumented residents COVID-19 stimulus payments, it also announced it would lay off first responders because of a lack of funds."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "251416",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: New York Gov. Andrew Cuomo ordered thousands of COVID-19 patients to be sent to nursing homes, while the USNS Comfort, a hospital ship sent to New York to help treat patients, sat empty and unused.  "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "252257",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: An image shows a recruitment flyer for a group seeking to hire \"professional anarchists.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "253407",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: The CEO of Wendy's donated about $400,000 to President Trump's re-election campaign. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "253738",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A graphic shows a Fox News chart correlating the stock market’s performance with the aftermath of the beating and deaths of black men. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "253827",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. Sen. Mitt Romney participated in a June 7, 2020 civil rights protest."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "254024",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A video shows a group of people celebrating the end of COVID-19 restrictions in New Zealand. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "255156",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Upon assuming power in Germany, Hitler ordered the defunding and elimination of police departments."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "255183",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A Craigslist ad offered to pay \"minority actors\" to hold signs at a Trump rally in Tulsa, Oklahoma on June 20, 2020."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "255228",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: An official Black Lives Matter flyer labels white men, women, and children as \"the enemy.\" "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "255951",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: An image shows the official COVID-19 series of NFL helmets. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "256042",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: In June 2020, U.S. President Donald Trump tweeted a doctored video with a manipulated CNN chyron of a supposedly \"racist baby\" chasing a Black toddler."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "256150",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Dale Earnhardt Jr. told a story about his late father, Dale Earnhardt Sr., removing a Confederate-flag sticker from his truck. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "256347",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Chick-fil-A CEO Dan Cathy said white people should shine the shoes of Black people in order to show shame about racism. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "256668",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: NASCAR announced that Black driver Bubba Wallace mistook a serpentine belt for a noose in his stall. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "257110",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. President Donald Trump was photographed holding the Bible upside down outside St John's Episcopal church on June 1, 2020."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "257147",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Black Lives Matter \"members and supporters\" are tampering with or poisoning the orders of white patrons at fast food restaurants."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "257184",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Antifa and Muslim organizations in summer of 2020 were planning to police the streets of Minneapolis under Muslim rule."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "257346",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A piece of text accurately transcribes the last words of Elijah McClain in a video recording of his encounter with police officers before he died in August 2019."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "259745",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A tweet by President Trump about preserving American heritage and history echoed a speech given by Adolf Hitler in 1939."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "259765",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: The NAACP warned of violent white supremacist initiations planned for \"this weekend.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "259899",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: In June 2020, the Michigan House of Representatives passed legislation that would allow employers to microchip workers on a voluntary basis."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "261472",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Adolf Hitler was behind the invention of the first inflatable sex dolls."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "261624",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A photograph shows U.S. President Trump kissing convicted sex trafficker Jeffrey Epstein. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "261805",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: The Trump administration issued a memo in July 2020 that listed physical characteristic to look for in order to identify incoming transgender people at federally funded homeless shelters."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "262291",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Residents of various U.S. states have received unsolicited mailings of seeds sent from China with malicious intent."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "262399",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. House Speaker Nancy Pelosi publicly criticized the actions of federal agents in U.S. cities during protests in 2020 — while simultaneously supporting a budget bill that would fund such law enforcement efforts."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "263336",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Video shows young children saying \"Fuck the police\" and holding signs that read “Fuck the police” and “Eff Trump goons” during protests against police brutality in Portland, Oregon, in July 2020. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "263818",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: As of July 2020, a new law in Canada meant motorists could be convicted and fined $1,500 if one of their passengers used a cellphone."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "264365",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Legionnaires' disease can be contracted from a face mask used repeatedly."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "264670",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A list of public figures posted to Facebook was part of an \"unsealed\" list of names kept by Ghislaine Maxwell, who has been charged with facilitating the sexual abuse of minors by Jeffrey Epstein."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "264774",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A photograph shows a dog that suffered burns on its face after escaping a house fire. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "264888",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: During an interview, presumed U.S. Democratic 2020 presidential nominee Joe Biden asked a news reporter, “Are you a junkie?” "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "265387",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: While responding to a 911 assault report, Los Angeles County sheriff's deputies pointed firearms at teenagers — two of whom were Black — after witnesses said the teens themselves were the victims of an attack by a knife-wielding man. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "265554",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. President Donald Trump donated $6,000 to Kamala Harris' 2014 campaign for reelection as California attorney general. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "266790",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Mail-in ballots reveal the political party of the voter, meaning that Postal Service employees can tamper with election results."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "267573",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: In 2020, PepsiCo gave $100 million to entities or projects associated with the Black Lives Matter movement."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "267617",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: An image shows an angry tweet by U.S. President Donald Trump about Goodyear tires which was full of misspellings."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "267699",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Sex traffickers are tagging vehicles as potential targets with codes such as \"1f1b.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "268844",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A video shows 2020 U.S. Democratic presidential nominee Joe Biden falling asleep during a live television interview. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "269042",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: An autopsy revealed that the late \"Black Panther\" star Chadwick Boseman had died from poisoning."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "269594",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. President Donald Trump told people they should vote twice in the 2020 presidential election."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "269916",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. Rep. Ken Buck, a Republican from Colorado, attended a campaign rally wearing a T-shirt that read, “Kill ‘Em All. Let God Sort ‘Em Out.”"
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "271059",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: A \"Support Our Troops\" ad from the 2020 Trump campaign featured an image of Russian fighter jets. "
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: true"
+      }
+    ]
+  },
+  {
+    "id": "271366",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: An organization once awarded U.S. President Donald Trump a Bay of Pigs recognition award."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "271433",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: In September 2020, CBS Evening News dishonestly presented a group of \"Latinos for Trump\" as Biden supporters."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "271833",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: U.S. President Donald Trump was honored with a Man of the Year award at an event in Michigan five or six years before he “thought about running” for president."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: false"
+      }
+    ]
+  },
+  {
+    "id": "68253",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Jimmy Carter sold his peanut farm before taking office as president in 1977."
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  },
+  {
+    "id": "99801",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Claim: Drinking cocktails from a copper mug can cause copper poisoning"
+      },
+      {
+        "from": "gpt",
+        "value": "Verdict: half"
+      }
+    ]
+  }
+]

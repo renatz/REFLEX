@@ -1,0 +1,234 @@
+/home/comp/24483737/fc/eval/res/all-steer/llama-2-averitec-raw-dev-cevio-cevio-lr-hallu-la11-m-1.5.json
+
+均分：
+misleadingness     1.184211
+informativeness    4.627193
+soundness          4.885965
+readability        4.877193
+dtype: float64
+1.1842105263157894	
+4.62719298245614	
+4.885964912280702	
+4.87719298245614	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-steer/llama-2-averitec-raw-dev-cevo-cevio-on-cevio-lr-infer-la1-m1.json
+
+均分：
+misleadingness     1.184211
+informativeness    4.651316
+soundness          4.864035
+readability        4.890351
+dtype: float64
+1.1842105263157894	
+4.651315789473684	
+4.864035087719298	
+4.890350877192983	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-steer/llama-2-liaraw-raw-cross-cv-cvi-all-sft-on-cvi-lr-infer-la1-m1.json
+
+均分：
+misleadingness     1.769591
+informativeness    4.543860
+soundness          4.670175
+readability        4.837427
+dtype: float64
+1.7695906432748538	
+4.543859649122807	
+4.670175438596491	
+4.837426900584795	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-steer/llama-2-liaraw-raw-cross-cv-cvi-on-cvi-lr-infer-la1-m1.json
+
+均分：
+misleadingness     1.767251
+informativeness    4.581287
+soundness          4.656140
+readability        4.832749
+dtype: float64
+1.7672514619883042	
+4.5812865497076025	
+4.656140350877193	
+4.832748538011696	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-steer/llama-2-liaraw-raw-dev-cvi-cvi-lr-hallu-la1-m1.5.json
+
+均分：
+misleadingness     1.803509
+informativeness    4.502924
+soundness          4.626901
+readability        4.828070
+dtype: float64
+1.8035087719298246	
+4.502923976608187	
+4.6269005847953215	
+4.828070175438596	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-steer/llama-2-rawfc-cross-raw-cvi-cvi-infer-lr-la10-m1.5.json
+
+均分：
+misleadingness     2.000
+informativeness    4.885
+soundness          4.830
+readability        4.805
+dtype: float64
+2.0	
+4.885	
+4.83	
+4.805	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-steer/llama-2-rawfc-raw-cross-cv-cvi-all-sft-on-cvi-hallu-lr-la2-m-1.json
+
+均分：
+misleadingness     1.785
+informativeness    4.875
+soundness          4.825
+readability        4.800
+dtype: float64
+1.785	
+4.875	
+4.825	
+4.8	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-steer/llama-2-rawfc-raw-cross-cv-cvi-on-cvi-infer-lr-la2-m1.json
+
+均分：
+misleadingness     1.950
+informativeness    4.870
+soundness          4.835
+readability        4.855
+dtype: float64
+1.95	
+4.87	
+4.835	
+4.855	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-steer/llama-2-rawfc-raw-dev-cvi-cvi-infer-lr-la13-m1.5.json
+
+均分：
+misleadingness     1.905
+informativeness    4.795
+soundness          4.770
+readability        4.745
+dtype: float64
+1.905	
+4.795	
+4.77	
+4.745	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-steer/qwen-3-averitec-raw-dev-cevio-cevio-lr-hallu-la10-m1.5.json
+
+均分：
+misleadingness     1.111842
+informativeness    4.629386
+soundness          4.888158
+readability        4.899123
+dtype: float64
+1.111842105263158	
+4.629385964912281	
+4.8881578947368425	
+4.899122807017544	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-steer/qwen-3-averitec-raw-dev-cevo-cevio-all-sft-on-cevio-lr-infer-la1-m-1.5.json
+
+均分：
+misleadingness     1.125000
+informativeness    4.701754
+soundness          4.921053
+readability        4.918860
+dtype: float64
+1.125	
+4.701754385964913	
+4.921052631578948	
+4.918859649122807	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-steer/qwen-3-averitec-raw-dev-cevo-cevio-on-cevio-lr-infer-la7-m-1.5.json
+
+均分：
+misleadingness     1.103070
+informativeness    4.671053
+soundness          4.907895
+readability        4.901316
+dtype: float64
+1.1030701754385965	
+4.671052631578948	
+4.907894736842105	
+4.901315789473684	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-steer/qwen-3-liaraw-raw-cross-cv-cvi-all-sft-on-cvi-lr-infer-la1-m1.5.json
+
+均分：
+misleadingness     1.844444
+informativeness    4.539181
+soundness          4.626901
+readability        4.818713
+dtype: float64
+1.8444444444444446	
+4.539181286549708	
+4.6269005847953215	
+4.818713450292398	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-steer/qwen-3-liaraw-raw-cross-cv-cvi-on-cvi-lr-infer-la4-m1.5.json
+
+均分：
+misleadingness     1.802339
+informativeness    4.549708
+soundness          4.625731
+readability        4.823392
+dtype: float64
+1.8023391812865497	
+4.549707602339181	
+4.625730994152047	
+4.823391812865497	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-steer/qwen-3-liaraw-raw-cross-cvi-cvi-lr-hallu-la15-m-1.5.json
+
+均分：
+misleadingness     1.829240
+informativeness    4.533333
+soundness          4.636257
+readability        4.825731
+dtype: float64
+1.8292397660818713	
+4.533333333333333	
+4.63625730994152	
+4.825730994152047	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-steer/qwen-3-rawfc-raw-cross-cv-cvi-on-cvi-infer-lr-la16-m1.5.json
+
+均分：
+misleadingness     1.890
+informativeness    4.885
+soundness          4.825
+readability        4.750
+dtype: float64
+1.89	
+4.885	
+4.825	
+4.75	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-steer/qwen-3-rawfc-raw-cross-cvi-cvi-infer-lr-la10-m1.5.json
+
+均分：
+misleadingness     1.825
+informativeness    4.865
+soundness          4.750
+readability        4.815
+dtype: float64
+1.825	
+4.865	
+4.75	
+4.815	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-steer/qwen-3-rawfc-raw-dev-cvi-cvi-infer-lr-la10-m1.5.json
+
+均分：
+misleadingness     1.870
+informativeness    4.885
+soundness          4.805
+readability        4.805
+dtype: float64
+1.87	
+4.885	
+4.805	
+4.805	
+************************************************************************************************

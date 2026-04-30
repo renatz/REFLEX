@@ -1,0 +1,91 @@
+/home/comp/24483737/fc/eval/res/all-base-raw/llama-2-averitec-cevio-ep2-final_2802-utf8.json
+
+均分：
+misleadingness     1.206140
+informativeness    4.614035
+soundness          4.885965
+readability        4.864035
+dtype: float64
+1.206140350877193	
+4.614035087719298	
+4.885964912280702	
+4.864035087719298	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-base-raw/llama-2-liar-raw-cvi-big-sep-ep2-shuffle-utf8.json
+
+均分：
+misleadingness     1.904094
+informativeness    4.477193
+soundness          4.597661
+readability        4.652632
+dtype: float64
+1.904093567251462	
+4.47719298245614	
+4.59766081871345	
+4.652631578947369	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-base-raw/llama-2-rawfc-cvi-remove_vox-sep-ep2-utf8.json
+
+均分：
+misleadingness     1.895
+informativeness    4.775
+soundness          4.815
+readability        4.545
+dtype: float64
+1.895	
+4.775	
+4.815	
+4.545	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-base-raw/qwen-3-averitec-cevo-ep2-final_2802-utf8.json
+
+均分：
+misleadingness     1.627193
+informativeness    4.467105
+soundness          4.642544
+readability        4.798246
+dtype: float64
+1.6271929824561404	
+4.467105263157895	
+4.642543859649122	
+4.798245614035087	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-base-raw/qwen-3-liar-raw-cvi-big-sep-ep2-shuffle-utf8.json
+
+均分：
+misleadingness     1.990643
+informativeness    4.431579
+soundness          4.545029
+readability        4.222222
+dtype: float64
+1.9906432748538012	
+4.431578947368421	
+4.545029239766082	
+4.222222222222222	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-base-raw/qwen-3-rawfc-cvi-remove_vox-sep-ep2-utf8.json
+
+均分：
+misleadingness     1.89
+informativeness    4.74
+soundness          4.80
+readability        4.32
+dtype: float64
+1.89	
+4.74	
+4.8	
+4.32	
+************************************************************************************************
+/home/comp/24483737/fc/eval/res/all-base-raw/qwen-3-averitec-cevio-ep2-final_2802-utf8.json
+
+均分：
+misleadingness     1.103070
+informativeness    4.666667
+soundness          4.894737
+readability        4.894737
+dtype: float64
+1.1030701754385965	
+4.666666666666667	
+4.894736842105263	
+4.894736842105263	
+************************************************************************************************

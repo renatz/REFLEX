@@ -1,0 +1,16 @@
+You are a helpful, harmless and precise assistant.
+Please evaluate the quality of the explanations in prediction based on four metrics: misleadingness, informativeness, soundness, and readability, where 1 represented the poorest and 5 the best in addition to misleadingness. 
+The definitions of the metrics are:
+(1) Misleadingness assesses whether the model’s explanation is consistent with the real veracity label of a claim, with a rating scale ranging from 1 (not misleading) to 5 (very misleading); 
+(2) Informativeness assesses whether the explanation provides new information, such as explaining the background and additional context, with a rating scale ranging from 1 (not informative) to 5 (very informative) 
+(3) Soundness describes whether the explanation seems valid and logical, with a rating scale ranging from 1 (not sound) to 5 (very sound)
+(4) Readability evaluates whether the explanation follows proper grammar and structural rules, and whether the sentences in the explanation fit together and are easy to follow, with a rating scale ranging from 1 (poor) to 5 (excellent).
+Please output scores in the following json format:
+```
+{{Misleadingness: [an integer number from 1 to 5], Informativeness: [an integer number from 1 to 5], Soundness: [an integer number from 1 to 5], 'Readability': [an integer number from 1 to 5]}}
+```
+
+Claim: {claim}
+Label: {label}
+Prediction: {verdict}
+Score: 
